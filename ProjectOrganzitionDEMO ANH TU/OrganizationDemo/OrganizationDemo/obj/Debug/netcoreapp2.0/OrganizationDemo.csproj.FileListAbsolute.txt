@@ -1,0 +1,11 @@
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\obj\Debug\netcoreapp2.0\OrganizationDemo.csprojAssemblyReference.cache
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\obj\Debug\netcoreapp2.0\OrganizationDemo.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\obj\Debug\netcoreapp2.0\OrganizationDemo.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\obj\Debug\netcoreapp2.0\OrganizationDemo.AssemblyInfo.cs
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\bin\Debug\netcoreapp2.0\OrganizationDemo.deps.json
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\bin\Debug\netcoreapp2.0\OrganizationDemo.runtimeconfig.json
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\bin\Debug\netcoreapp2.0\OrganizationDemo.runtimeconfig.dev.json
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\bin\Debug\netcoreapp2.0\OrganizationDemo.dll
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\bin\Debug\netcoreapp2.0\OrganizationDemo.pdb
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\obj\Debug\netcoreapp2.0\OrganizationDemo.dll
+C:\Users\thinh\source\repos\OrganizationDemo\OrganizationDemo\obj\Debug\netcoreapp2.0\OrganizationDemo.pdb
